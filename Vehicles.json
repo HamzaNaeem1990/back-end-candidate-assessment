@@ -1,9 +1,5 @@
 {
   "Vehicles": [
-
-
-
-    /* 1 */
     {
       "_id": "5629a64e9185130a78ed2a34",
       "vehicletype": {
@@ -26,7 +22,7 @@
       "derivative": {
         "name": "350 Alloy Dropside D-4D 144hp",
         "id": 24456,
-        "introduced": "Date.parse(\"2011-12-20T00:00:00.000Z\")"
+        "introduced": "2011-12-20T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24456/van",
@@ -911,8 +907,6 @@
         "derivative": "350-alloy-dropside-d-4d-144hp"
       }
     },
-
-    /* 2 */
     {
       "_id": "5629a6629185130a78ed2a57",
       "vehicletype": {
@@ -935,7 +929,7 @@
       "derivative": {
         "name": "D/Cab Pick Up Highline 2.0 BiTDI 180 4MOTION Sel",
         "id": 25078,
-        "introduced": "Date.parse(\"2012-07-23T00:00:00.000Z\")"
+        "introduced": "2012-07-23T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/25078/van",
@@ -2281,8 +2275,6 @@
         "derivative": "d-cab-pick-up-highline-2.0-bitdi-180-4motion-sel"
       }
     },
-
-    /* 3 */
     {
       "_id": "567236de9185130830ef4211",
       "vehicletype": {
@@ -2305,7 +2297,7 @@
       "derivative": {
         "name": "SE Commercial Sd V6 Auto",
         "id": 34428,
-        "introduced": "Date.parse(\"2015-06-01T00:00:00.000Z\")"
+        "introduced": "2015-06-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34428/van",
@@ -3723,8 +3715,6 @@
         "derivative": "se-commercial-sd-v6-auto"
       }
     },
-
-    /* 4 */
     {
       "_id": "567236df9185130830ef4212",
       "vehicletype": {
@@ -3747,7 +3737,7 @@
       "derivative": {
         "name": "350 Chassis Cab D-4D 144hp",
         "id": 24455,
-        "introduced": "Date.parse(\"2011-12-20T00:00:00.000Z\")"
+        "introduced": "2011-12-20T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24455/van",
@@ -4603,8 +4593,6 @@
         "derivative": "350-chassis-cab-d-4d-144hp"
       }
     },
-
-    /* 5 */
     {
       "_id": "567236e09185130830ef4213",
       "vehicletype": {
@@ -4627,7 +4615,7 @@
       "derivative": {
         "name": "350 Alloy Dropside D-4D 144hp",
         "id": 24897,
-        "introduced": "Date.parse(\"2012-04-01T00:00:00.000Z\")"
+        "introduced": "2012-04-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24897/van",
@@ -5122,8 +5110,6 @@
         "derivative": "350-alloy-dropside-d-4d-144hp"
       }
     },
-
-    /* 6 */
     {
       "_id": "567236e09185130830ef4214",
       "vehicletype": {
@@ -5146,7 +5132,7 @@
       "derivative": {
         "name": "350 Alloy Tipper 3-Way D-4D 144hp",
         "id": 24898,
-        "introduced": "Date.parse(\"2012-04-01T00:00:00.000Z\")"
+        "introduced": "2012-04-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24898/van",
@@ -5632,8 +5618,6 @@
         "derivative": "350-alloy-tipper-3-way-d-4d-144hp"
       }
     },
-
-    /* 7 */
     {
       "_id": "567236e19185130830ef4215",
       "vehicletype": {
@@ -5656,7 +5640,7 @@
       "derivative": {
         "name": "350 Chassis Cab D-4D 144hp",
         "id": 24454,
-        "introduced": "Date.parse(\"2011-12-20T00:00:00.000Z\")"
+        "introduced": "2011-12-20T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24454/van",
@@ -6512,8 +6496,6 @@
         "derivative": "350-chassis-cab-d-4d-144hp"
       }
     },
-
-    /* 8 */
     {
       "_id": "567236e19185130830ef4216",
       "vehicletype": {
@@ -6536,7 +6518,7 @@
       "derivative": {
         "name": "300 Alloy Dropside D-4D 144hp",
         "id": 24896,
-        "introduced": "Date.parse(\"2012-04-01T00:00:00.000Z\")"
+        "introduced": "2012-04-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24896/van",
@@ -7031,8 +7013,6 @@
         "derivative": "300-alloy-dropside-d-4d-144hp"
       }
     },
-
-    /* 9 */
     {
       "_id": "567236e29185130830ef4217",
       "vehicletype": {
@@ -7055,7 +7035,7 @@
       "derivative": {
         "name": "300 Alloy Tipper 1-Way D-4D 144hp",
         "id": 24453,
-        "introduced": "Date.parse(\"2011-12-20T00:00:00.000Z\")"
+        "introduced": "2011-12-20T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24453/van",
@@ -7931,8 +7911,6 @@
         "derivative": "300-alloy-tipper-1-way-d-4d-144hp"
       }
     },
-
-    /* 10 */
     {
       "_id": "567236e29185130830ef4218",
       "vehicletype": {
@@ -7955,7 +7933,7 @@
       "derivative": {
         "name": "300 Chassis Cab D-4D 144hp",
         "id": 24452,
-        "introduced": "Date.parse(\"2011-12-20T00:00:00.000Z\")"
+        "introduced": "2011-12-20T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/24452/van",
@@ -8811,8 +8789,6 @@
         "derivative": "300-chassis-cab-d-4d-144hp"
       }
     },
-
-    /* 11 */
     {
       "_id": "567236e39185130830ef4219",
       "vehicletype": {
@@ -8835,7 +8811,7 @@
       "derivative": {
         "name": "Active D/Cab Pick Up 2.5 D-4D 4WD 144",
         "id": 30784,
-        "introduced": "Date.parse(\"2013-12-01T00:00:00.000Z\")"
+        "introduced": "2013-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/30784/van",
@@ -9965,8 +9941,6 @@
         "derivative": "active-d-cab-pick-up-2.5-d-4d-4wd-144"
       }
     },
-
-    /* 12 */
     {
       "_id": "567236e39185130830ef421a",
       "vehicletype": {
@@ -9989,7 +9963,7 @@
       "derivative": {
         "name": "Active Extra Cab Pick Up 2.5 D-4D 4WD 144",
         "id": 30783,
-        "introduced": "Date.parse(\"2013-12-01T00:00:00.000Z\")"
+        "introduced": "2013-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/30783/van",
@@ -11099,8 +11073,6 @@
         "derivative": "active-extra-cab-pick-up-2.5-d-4d-4wd-144"
       }
     },
-
-    /* 13 */
     {
       "_id": "567236e49185130830ef421b",
       "vehicletype": {
@@ -11123,7 +11095,7 @@
       "derivative": {
         "name": "Active Pick Up 2.5 D-4D 4WD 144",
         "id": 30782,
-        "introduced": "Date.parse(\"2013-12-01T00:00:00.000Z\")"
+        "introduced": "2013-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/30782/van",
@@ -12217,8 +12189,6 @@
         "derivative": "active-pick-up-2.5-d-4d-4wd-144"
       }
     },
-
-    /* 14 */
     {
       "_id": "567236e49185130830ef421c",
       "vehicletype": {
@@ -12241,7 +12211,7 @@
       "derivative": {
         "name": "Icon D/Cab Pick Up 2.5 D-4D 4WD 144",
         "id": 30785,
-        "introduced": "Date.parse(\"2013-12-01T00:00:00.000Z\")"
+        "introduced": "2013-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/30785/van",
@@ -13481,8 +13451,6 @@
         "derivative": "icon-d-cab-pick-up-2.5-d-4d-4wd-144"
       }
     },
-
-    /* 15 */
     {
       "_id": "567236e59185130830ef421d",
       "vehicletype": {
@@ -13505,7 +13473,7 @@
       "derivative": {
         "name": "Icon D/Cab Pick Up 2.5 D-4D 4WD 144 Nav",
         "id": 30786,
-        "introduced": "Date.parse(\"2013-12-01T00:00:00.000Z\")"
+        "introduced": "2013-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/30786/van",
@@ -14750,8 +14718,6 @@
         "derivative": "icon-d-cab-pick-up-2.5-d-4d-4wd-144-nav"
       }
     },
-
-    /* 16 */
     {
       "_id": "567236e69185130830ef421e",
       "vehicletype": {
@@ -14774,7 +14740,7 @@
       "derivative": {
         "name": "Invincible D/Cab P/Up 3.0 D-4D 4WD 171 Lthr",
         "id": 21672,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21672/van",
@@ -16046,8 +16012,6 @@
         "derivative": "invincible-d-cab-p-up-3.0-d-4d-4wd-171-lthr"
       }
     },
-
-    /* 17 */
     {
       "_id": "567236e69185130830ef421f",
       "vehicletype": {
@@ -16070,7 +16034,7 @@
       "derivative": {
         "name": "Invincible D/Cab P/Up 3.0 D-4D 4WD 171 Lthr Auto",
         "id": 21673,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21673/van",
@@ -17342,8 +17306,6 @@
         "derivative": "invincible-d-cab-p-up-3.0-d-4d-4wd-171-lthr-auto"
       }
     },
-
-    /* 18 */
     {
       "_id": "567236e79185130830ef4220",
       "vehicletype": {
@@ -17366,7 +17328,7 @@
       "derivative": {
         "name": "Invincible D/Cab P/Up 3.0 D-4D 4WD 171 Nav Lt Auto",
         "id": 21675,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21675/van",
@@ -18643,8 +18605,6 @@
         "derivative": "invincible-d-cab-p-up-3.0-d-4d-4wd-171-nav-lt-auto"
       }
     },
-
-    /* 19 */
     {
       "_id": "567236e79185130830ef4221",
       "vehicletype": {
@@ -18667,7 +18627,7 @@
       "derivative": {
         "name": "Invincible D/Cab P/Up 3.0 D-4D 4WD 171 Nav Lthr",
         "id": 21674,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21674/van",
@@ -19944,8 +19904,6 @@
         "derivative": "invincible-d-cab-p-up-3.0-d-4d-4wd-171-nav-lthr"
       }
     },
-
-    /* 20 */
     {
       "_id": "567236e89185130830ef4222",
       "vehicletype": {
@@ -19968,7 +19926,7 @@
       "derivative": {
         "name": "Invincible D/Cab Pick Up 3.0 D-4D 4WD 171",
         "id": 21668,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21668/van",
@@ -21240,8 +21198,6 @@
         "derivative": "invincible-d-cab-pick-up-3.0-d-4d-4wd-171"
       }
     },
-
-    /* 21 */
     {
       "_id": "567236e99185130830ef4223",
       "vehicletype": {
@@ -21264,7 +21220,7 @@
       "derivative": {
         "name": "Invincible D/Cab Pick Up 3.0 D-4D 4WD 171 Auto",
         "id": 21669,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21669/van",
@@ -22536,8 +22492,6 @@
         "derivative": "invincible-d-cab-pick-up-3.0-d-4d-4wd-171-auto"
       }
     },
-
-    /* 22 */
     {
       "_id": "567236e99185130830ef4224",
       "vehicletype": {
@@ -22560,7 +22514,7 @@
       "derivative": {
         "name": "Invincible D/Cab Pick Up 3.0 D-4D 4WD 171 Nav",
         "id": 21670,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21670/van",
@@ -23837,8 +23791,6 @@
         "derivative": "invincible-d-cab-pick-up-3.0-d-4d-4wd-171-nav"
       }
     },
-
-    /* 23 */
     {
       "_id": "567236ea9185130830ef4225",
       "vehicletype": {
@@ -23861,7 +23813,7 @@
       "derivative": {
         "name": "Invincible D/Cab Pick Up 3.0 D-4D 4WD 171 Nav Auto",
         "id": 21671,
-        "introduced": "Date.parse(\"2011-10-01T00:00:00.000Z\")"
+        "introduced": "2011-10-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/21671/van",
@@ -25138,8 +25090,6 @@
         "derivative": "invincible-d-cab-pick-up-3.0-d-4d-4wd-171-nav-auto"
       }
     },
-
-    /* 24 */
     {
       "_id": "567236eb9185130830ef4226",
       "vehicletype": {
@@ -25162,7 +25112,7 @@
       "derivative": {
         "name": "Invincible X D/Cab P/Up 3.0 D-4D 4WD 171 Nav Auto",
         "id": 34231,
-        "introduced": "Date.parse(\"2015-02-23T00:00:00.000Z\")"
+        "introduced": "2015-02-23T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34231/van",
@@ -26509,8 +26459,6 @@
         "derivative": "invincible-x-d-cab-p-up-3.0-d-4d-4wd-171-nav-auto"
       }
     },
-
-    /* 25 */
     {
       "_id": "567236eb9185130830ef4227",
       "vehicletype": {
@@ -26533,7 +26481,7 @@
       "derivative": {
         "name": "Invincible X D/Cab Pick Up 3.0 D-4D 4WD 171",
         "id": 34228,
-        "introduced": "Date.parse(\"2015-02-23T00:00:00.000Z\")"
+        "introduced": "2015-02-23T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34228/van",
@@ -27875,8 +27823,6 @@
         "derivative": "invincible-x-d-cab-pick-up-3.0-d-4d-4wd-171"
       }
     },
-
-    /* 26 */
     {
       "_id": "567236ec9185130830ef4228",
       "vehicletype": {
@@ -27899,7 +27845,7 @@
       "derivative": {
         "name": "Invincible X D/Cab Pick Up 3.0 D-4D 4WD 171 Auto",
         "id": 34229,
-        "introduced": "Date.parse(\"2015-02-23T00:00:00.000Z\")"
+        "introduced": "2015-02-23T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34229/van",
@@ -29241,8 +29187,6 @@
         "derivative": "invincible-x-d-cab-pick-up-3.0-d-4d-4wd-171-auto"
       }
     },
-
-    /* 27 */
     {
       "_id": "567236ed9185130830ef4229",
       "vehicletype": {
@@ -29265,7 +29209,7 @@
       "derivative": {
         "name": "Invincible X D/Cab Pick Up 3.0 D-4D 4WD 171 Nav",
         "id": 34230,
-        "introduced": "Date.parse(\"2015-02-23T00:00:00.000Z\")"
+        "introduced": "2015-02-23T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34230/van",
@@ -30612,8 +30556,6 @@
         "derivative": "invincible-x-d-cab-pick-up-3.0-d-4d-4wd-171-nav"
       }
     },
-
-    /* 28 */
     {
       "_id": "567236ed9185130830ef422a",
       "vehicletype": {
@@ -30636,7 +30578,7 @@
       "derivative": {
         "name": "100 Van 2.0HDi H1 128hp",
         "id": 26599,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26599/van",
@@ -31467,8 +31409,6 @@
         "derivative": "100-van-2.0hdi-h1-128hp"
       }
     },
-
-    /* 29 */
     {
       "_id": "567236ee9185130830ef422b",
       "vehicletype": {
@@ -31491,7 +31431,7 @@
       "derivative": {
         "name": "120 Van 1.6HDi H1 90hp",
         "id": 26601,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26601/van",
@@ -32322,8 +32262,6 @@
         "derivative": "120-van-1.6hdi-h1-90hp"
       }
     },
-
-    /* 30 */
     {
       "_id": "567236ee9185130830ef422c",
       "vehicletype": {
@@ -32346,7 +32284,7 @@
       "derivative": {
         "name": "120 Van 2.0HDi H1 128hp",
         "id": 26603,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26603/van",
@@ -33177,8 +33115,6 @@
         "derivative": "120-van-2.0hdi-h1-128hp"
       }
     },
-
-    /* 31 */
     {
       "_id": "567236ef9185130830ef422d",
       "vehicletype": {
@@ -33201,7 +33137,7 @@
       "derivative": {
         "name": "120 Van 2.0HDi H1 163hp",
         "id": 26605,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26605/van",
@@ -34032,8 +33968,6 @@
         "derivative": "120-van-2.0hdi-h1-163hp"
       }
     },
-
-    /* 32 */
     {
       "_id": "567236ef9185130830ef422e",
       "vehicletype": {
@@ -34056,7 +33990,7 @@
       "derivative": {
         "name": "120 Crew Van 2.0HDi H1 128hp",
         "id": 26617,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26617/van",
@@ -34900,8 +34834,6 @@
         "derivative": "120-crew-van-2.0hdi-h1-128hp"
       }
     },
-
-    /* 33 */
     {
       "_id": "567236f09185130830ef422f",
       "vehicletype": {
@@ -34924,7 +34856,7 @@
       "derivative": {
         "name": "120 Van 1.6HDi H1 90hp",
         "id": 26607,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26607/van",
@@ -35755,8 +35687,6 @@
         "derivative": "120-van-1.6hdi-h1-90hp"
       }
     },
-
-    /* 34 */
     {
       "_id": "567236f09185130830ef4230",
       "vehicletype": {
@@ -35779,7 +35709,7 @@
       "derivative": {
         "name": "120 Van 2.0HDi H1 128hp",
         "id": 26609,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26609/van",
@@ -36610,8 +36540,6 @@
         "derivative": "120-van-2.0hdi-h1-128hp"
       }
     },
-
-    /* 35 */
     {
       "_id": "567236f19185130830ef4231",
       "vehicletype": {
@@ -36634,7 +36562,7 @@
       "derivative": {
         "name": "120 Van 2.0HDi H1 163hp",
         "id": 26611,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26611/van",
@@ -37465,8 +37393,6 @@
         "derivative": "120-van-2.0hdi-h1-163hp"
       }
     },
-
-    /* 36 */
     {
       "_id": "567236f19185130830ef4232",
       "vehicletype": {
@@ -37489,7 +37415,7 @@
       "derivative": {
         "name": "120 Van 2.0HDi H2 128hp",
         "id": 26613,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26613/van",
@@ -38314,8 +38240,6 @@
         "derivative": "120-van-2.0hdi-h2-128hp"
       }
     },
-
-    /* 37 */
     {
       "_id": "567236f29185130830ef4233",
       "vehicletype": {
@@ -38338,7 +38262,7 @@
       "derivative": {
         "name": "120 Van 2.0HDi H2 163hp",
         "id": 26615,
-        "introduced": "Date.parse(\"2013-04-02T00:00:00.000Z\")"
+        "introduced": "2013-04-02T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26615/van",
@@ -39163,8 +39087,6 @@
         "derivative": "120-van-2.0hdi-h2-163hp"
       }
     },
-
-    /* 38 */
     {
       "_id": "567236f49185130830ef4234",
       "vehicletype": {
@@ -39187,7 +39109,7 @@
       "derivative": {
         "name": "D/Cab Pick Up Highline 2.0 BiTDI 180 BMT 4MTN Auto",
         "id": 25079,
-        "introduced": "Date.parse(\"2012-07-23T00:00:00.000Z\")"
+        "introduced": "2012-07-23T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/25079/van",
@@ -40533,8 +40455,6 @@
         "derivative": "d-cab-pick-up-highline-2.0-bitdi-180-bmt-4mtn-auto"
       }
     },
-
-    /* 39 */
     {
       "_id": "567236f49185130830ef4235",
       "vehicletype": {
@@ -40557,7 +40477,7 @@
       "derivative": {
         "name": "D/Cab Pick Up Startline 2.0 TDI 140 4MOTION Sel",
         "id": 26582,
-        "introduced": "Date.parse(\"2013-02-01T00:00:00.000Z\")"
+        "introduced": "2013-02-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/26582/van",
@@ -41840,8 +41760,6 @@
         "derivative": "d-cab-pick-up-startline-2.0-tdi-140-4motion-sel"
       }
     },
-
-    /* 40 */
     {
       "_id": "567236f59185130830ef4236",
       "vehicletype": {
@@ -41864,7 +41782,7 @@
       "derivative": {
         "name": "D/Cab Pick Up Trendline 2.0 BiTDI 180 4MOTION Sel",
         "id": 25077,
-        "introduced": "Date.parse(\"2012-07-23T00:00:00.000Z\")"
+        "introduced": "2012-07-23T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/25077/van",
@@ -43249,8 +43167,6 @@
         "derivative": "d-cab-pick-up-trendline-2.0-bitdi-180-4motion-sel"
       }
     },
-
-    /* 41 */
     {
       "_id": "567236f69185130830ef4237",
       "vehicletype": {
@@ -43273,7 +43189,7 @@
       "derivative": {
         "name": "D/Cab Pick Up Trendline 2.0 TDI 140 4MOTION Sel",
         "id": 29056,
-        "introduced": "Date.parse(\"2013-08-05T00:00:00.000Z\")"
+        "introduced": "2013-08-05T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/29056/van",
@@ -44658,8 +44574,6 @@
         "derivative": "d-cab-pick-up-trendline-2.0-tdi-140-4motion-sel"
       }
     },
-
-    /* 42 */
     {
       "_id": "567236f79185130830ef4238",
       "vehicletype": {
@@ -44682,7 +44596,7 @@
       "derivative": {
         "name": "D/Cab Pick Up Atacama 2.0 BiTDI 180 4MOTION Sel",
         "id": 34537,
-        "introduced": "Date.parse(\"2015-09-01T00:00:00.000Z\")"
+        "introduced": "2015-09-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34537/van",
@@ -45639,8 +45553,6 @@
         "derivative": "d-cab-pick-up-atacama-2.0-bitdi-180-4motion-sel"
       }
     },
-
-    /* 43 */
     {
       "_id": "567236f79185130830ef4239",
       "vehicletype": {
@@ -45663,7 +45575,7 @@
       "derivative": {
         "name": "D/Cab Pick Up Atacama 2.0 BiTDI 180 BMT 4MTN Auto",
         "id": 34538,
-        "introduced": "Date.parse(\"2015-09-01T00:00:00.000Z\")"
+        "introduced": "2015-09-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34538/van",
@@ -46638,8 +46550,6 @@
         "derivative": "d-cab-pick-up-atacama-2.0-bitdi-180-bmt-4mtn-auto"
       }
     },
-
-    /* 44 */
     {
       "_id": "567236f89185130830ef423a",
       "vehicletype": {
@@ -46662,7 +46572,7 @@
       "derivative": {
         "name": "2.0 TDI BlueMotion 102PS Van",
         "id": 34755,
-        "introduced": "Date.parse(\"2015-08-01T00:00:00.000Z\")"
+        "introduced": "2015-08-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34755/van",
@@ -48664,8 +48574,6 @@
         "derivative": "2.0-tdi-bluemotion-102ps-van"
       }
     },
-
-    /* 45 */
     {
       "_id": "567236f99185130830ef423b",
       "vehicletype": {
@@ -48688,7 +48596,7 @@
       "derivative": {
         "name": "2.0 TDI BlueMotion Tech 102PS + Highline Van",
         "id": 35467,
-        "introduced": "Date.parse(\"2015-12-01T00:00:00.000Z\")"
+        "introduced": "2015-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/35467/van",
@@ -50724,8 +50632,6 @@
         "derivative": "2.0-tdi-bluemotion-tech-102ps-+-highline-van"
       }
     },
-
-    /* 46 */
     {
       "_id": "567236fa9185130830ef423c",
       "vehicletype": {
@@ -50748,7 +50654,7 @@
       "derivative": {
         "name": "2.0 TDI BlueMotion Tech 102PS + Startline Van",
         "id": 35457,
-        "introduced": "Date.parse(\"2015-12-01T00:00:00.000Z\")"
+        "introduced": "2015-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/35457/van",
@@ -52856,8 +52762,6 @@
         "derivative": "2.0-tdi-bluemotion-tech-102ps-+-startline-van"
       }
     },
-
-    /* 47 */
     {
       "_id": "567236fb9185130830ef423d",
       "vehicletype": {
@@ -52880,7 +52784,7 @@
       "derivative": {
         "name": "2.0 TDI BlueMotion Tech 102PS + Trendline Van",
         "id": 35462,
-        "introduced": "Date.parse(\"2015-12-01T00:00:00.000Z\")"
+        "introduced": "2015-12-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/35462/van",
@@ -54960,8 +54864,6 @@
         "derivative": "2.0-tdi-bluemotion-tech-102ps-+-trendline-van"
       }
     },
-
-    /* 48 */
     {
       "_id": "567236fc9185130830ef423e",
       "vehicletype": {
@@ -54984,7 +54886,7 @@
       "derivative": {
         "name": "2.0 TDI BlueMotion Tech 102PS Highline Van",
         "id": 34758,
-        "introduced": "Date.parse(\"2015-08-01T00:00:00.000Z\")"
+        "introduced": "2015-08-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34758/van",
@@ -57020,8 +56922,6 @@
         "derivative": "2.0-tdi-bluemotion-tech-102ps-highline-van"
       }
     },
-
-    /* 49 */
     {
       "_id": "567236fd9185130830ef423f",
       "vehicletype": {
@@ -57044,7 +56944,7 @@
       "derivative": {
         "name": "2.0 TDI BlueMotion Tech 102PS Highline Van DSG",
         "id": 34761,
-        "introduced": "Date.parse(\"2015-08-01T00:00:00.000Z\")"
+        "introduced": "2015-08-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34761/van",
@@ -59080,8 +58980,6 @@
         "derivative": "2.0-tdi-bluemotion-tech-102ps-highline-van-dsg"
       }
     },
-
-    /* 50 */
     {
       "_id": "567236fe9185130830ef4240",
       "vehicletype": {
@@ -59104,7 +59002,7 @@
       "derivative": {
         "name": "2.0 TDI BlueMotion Tech 102PS Startline Van",
         "id": 34756,
-        "introduced": "Date.parse(\"2015-08-01T00:00:00.000Z\")"
+        "introduced": "2015-08-01T00:00:00.000Z"
       },
       "image": {
         "large": "/img/a/l/34756/van",
