@@ -9,7 +9,7 @@ The application should initially list 10 cars, showing information that you woul
 
 The data can be passed in as simple in-memory objects.
 
-Image paths referenced within the supplied JSON file (e.g. within `obj/image/large`, `obj/image/full`, and `obj/image/small`) should be prepended with ‘https://listers.co.uk’ as the base URI - this would mean an object with the value `/img/a/l/24456/van` should use the URL `https://listers.co.uk/img/a/l/24456/van`.
+Image paths referenced within the supplied JSON file (e.g. within `obj/image/large`, `obj/image/full`, and `obj/image/small`) should be prepended with `https://listers.co.uk` as the base URI - this would mean an object with the value `/img/a/l/24456/van` should use the URL `https://listers.co.uk/img/a/l/24456/van`.
 
 Consideration over techniques for sorting and filtering the data along with unit tests would be very useful.
 
